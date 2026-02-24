@@ -51,7 +51,7 @@ Every project here represents curiosity, resilience, and a commitment to turning
 ---
 
 ## 📂 Repository Structure
-
+```
 Perfect-Winner/
 │
 ├─ Education/
@@ -60,6 +60,8 @@ Perfect-Winner/
 ├─ AI-and-Tech-Certifications/
 ├─ Creative-Portfolio/
 └─ Memoars/
+```
+
 
 Each folder organizes files by theme and year, making it easy to explore achievements and growth over time.
 
