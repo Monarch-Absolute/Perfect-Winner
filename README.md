@@ -59,6 +59,22 @@ IPK SEMESTER 6 :
 IPK SEMESTER 7 :
 
 IPK SEMESTER 8 :
+
+SARJANA Teknik Informatika S1 UNNES
+
+IPK TOTAL:
+```
+
+
+```
+IPK SEMESTER 1 :
+IPK SEMESTER 2 :
+IPK SEMESTER 3 :
+IPK SEMESTER 4 :
+
+MAGISTER TEKNIK INFORMATIKA S2 UNNES
+
+IPK TOTAL :
 ```
 > _"Excellence is not a destination; it is a continuous journey of learning, creating, and growing."_  
 
