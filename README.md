@@ -42,7 +42,7 @@ This repository contains:
 
 ---
 
-## 🌟 Philosophy
+## 🌟 Philosophy About Goals and My Opinion
 ```
 
 CTO
