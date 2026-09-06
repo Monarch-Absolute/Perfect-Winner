@@ -43,7 +43,7 @@ This repository contains:
 ---
 
 ## 🌟 Philosophy
-
+```
 IPK SEMESTER 1 : 3.85
 
 IPK SEMESTER 2 : 3.55
@@ -59,7 +59,7 @@ IPK SEMESTER 6 :
 IPK SEMESTER 7 :
 
 IPK SEMESTER 8 :
-
+```
 > _"Excellence is not a destination; it is a continuous journey of learning, creating, and growing."_  
 
 Every project here represents curiosity, resilience, and a commitment to turning knowledge into action. This repository is not just a collection of files — it’s a story of passion, perseverance, and progress.
