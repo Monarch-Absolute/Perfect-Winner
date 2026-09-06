@@ -48,13 +48,13 @@ IPK SEMESTER 1 : 3.85
 
 IPK SEMESTER 2 : 3.55
 
-IPK SEMESTER 3 :
+IPK SEMESTER 3 : 4.0
 
-IPK SEMESTER 4 :
+IPK SEMESTER 4 : 4.0
 
-IPK SEMESTER 5 :
+IPK SEMESTER 5 : 4.0
 
-IPK SEMESTER 6 :
+IPK SEMESTER 6 : 4.0
 
 IPK SEMESTER 7 :
 
@@ -62,7 +62,7 @@ IPK SEMESTER 8 :
 
 SARJANA Teknik Informatika S1 UNNES
 
-IPK TOTAL:
+IPK TOTAL: ~3.7
 ```
 
 
@@ -75,6 +75,8 @@ IPK SEMESTER 4 :
 MAGISTER TEKNIK INFORMATIKA S2 UNNES
 
 IPK TOTAL :
+
+JOB : TEACHER LABORATORIUM KOMPUTER AT SCHOOL
 ```
 > _"Excellence is not a destination; it is a continuous journey of learning, creating, and growing."_  
 
