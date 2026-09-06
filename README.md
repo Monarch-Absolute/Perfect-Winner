@@ -84,6 +84,8 @@ IPK TOTAL :
 
 CEO
 -> JOB : TEACHER LABORATORIUM KOMPUTER AT SCHOOL && STAFF ACADEMIC
+
+Single Forever
 ```
 > _"Excellence is not a destination; it is a continuous journey of learning, creating, and growing."_  
 
