@@ -44,6 +44,9 @@ This repository contains:
 
 ## 🌟 Philosophy
 ```
+
+CTO
+
 IPK SEMESTER 1 : 3.85
 
 IPK SEMESTER 2 : 3.55
@@ -67,6 +70,9 @@ IPK TOTAL: ~3.7
 
 
 ```
+
+MTO
+
 IPK SEMESTER 1 :
 IPK SEMESTER 2 :
 IPK SEMESTER 3 :
@@ -76,7 +82,8 @@ MAGISTER TEKNIK INFORMATIKA S2 UNNES
 
 IPK TOTAL :
 
-JOB : TEACHER LABORATORIUM KOMPUTER AT SCHOOL
+CEO
+-> JOB : TEACHER LABORATORIUM KOMPUTER AT SCHOOL && STAFF ACADEMIC
 ```
 > _"Excellence is not a destination; it is a continuous journey of learning, creating, and growing."_  
 
