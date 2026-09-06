@@ -45,12 +45,19 @@ This repository contains:
 ## 🌟 Philosophy
 
 IPK SEMESTER 1 : 3.85
+
 IPK SEMESTER 2 : 3.55
+
 IPK SEMESTER 3 :
+
 IPK SEMESTER 4 :
+
 IPK SEMESTER 5 :
+
 IPK SEMESTER 6 :
+
 IPK SEMESTER 7 :
+
 IPK SEMESTER 8 :
 
 > _"Excellence is not a destination; it is a continuous journey of learning, creating, and growing."_  
